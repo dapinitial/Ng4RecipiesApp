@@ -1,3 +1,9 @@
+# Ever wanted to host a party and you needed people to bring food and drinks? Other stuff maybe?
+
+## What if you had an application that in realtime allowed you to host a party and vote on a theme or a meal. What if that meal could be based on the pantry/fridge/freezer/bar that you already had and that others already had? What if recipes were cross-referenced based off the ingredients that you collectively had with your party? What it your friends could invite others and everyone could share in the marvel you have before you? What if people could sign up and it would allow them to either buy from Amazon Fresh and have delivered by the time the party started!?  This is about to be possible, because, this is how awesome I am.
+
+###
+
 # Ng4RecipesApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
